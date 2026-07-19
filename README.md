@@ -3,7 +3,9 @@
 **MyWallet** is an AI-powered personal finance tracker that helps you manage budgets, log transactions, and understand your spending through Gemini-powered insights. This repository contains the **backend** (Node.js + Express + TypeScript + MongoDB).
 
 🔗 **Live API:** [https://my-wallet-server-xypn.onrender.com](https://my-wallet-server-xypn.onrender.com)
+
 🔗 **Frontend Repo:** [MyWallet-Client](https://github.com/Pranto408/my-wallet-client)
+
 🔗 **Live App:** [https://my-wallet-client-smoky.vercel.app](https://my-wallet-client-smoky.vercel.app)
 
 ---
@@ -94,6 +96,4 @@ src/
 | `GOOGLE_CALLBACK_URL` | OAuth callback URL registered in Google Cloud Console |
 | `CLIENT_URL` | Frontend URL, used to redirect after OAuth login |
 
-## 📄 License
 
-Built as part of an Agentic AI project assignment.
